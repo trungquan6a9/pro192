@@ -1,0 +1,15 @@
+|C001 |Hublot Galaxy     |Man   |Hublot      |2018|26.4|
+|SD102|Hublot University |men   |Hublot      |2018|23.4|
+|SD101|Hublot Sand       |women |Hublot      |2011|23.1|
+|SM102|LG Mada           |Women |LG          |2011|24.4|
+|SK122|Olympust          |Men   |Olym        |2007|27.1|
+|SL001|Genius Nasmase    |Women |Genius      |2019|22.3|
+|SP201|Kalada Madaquata  |Men   |Kalada      |2012|25.3|
+|LA121|LA                |Men   |LA          |2001|23.3|
+|LA112|LE                |Men   |LE          |2002|26.6|
+|NA122|Nana              |Men   |Nana        |2000|31.1|
+|MI202|Gughi             |Women |Gughi       |2001|20.3|
+|MA226|Malwa I99         |Men   |32 Cente    |2009|25.3|
+|D001 |Gu                |Women |EME         |2009|23.3|
+|D001 |Gu                |Women |EME         |2009|23.3|
+|MM203|Maopha Meosie     |Women |Map         |2004|26.1|
